@@ -19,8 +19,7 @@
     "§a§lTotem Maker§r"
   ],
   "interaction": {
-    "type": "dialogue",
-    "dialogue": "cobblemon:cpt_poke_to_totem"
+    "type": "dialogue"
   },
   "hideNameTag": true
 }
